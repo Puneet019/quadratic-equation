@@ -8,6 +8,6 @@ The term b2-4ac is known as the discriminant of a quadratic equation. The discri
          --> If discriminant is greater than 0, the roots are real and different.
          --> If discriminant is equal to 0, the roots are real and equal.
          --> If discriminant is less than 0, the roots are complex and different.
-      ![Screenshot (170)](https://user-images.githubusercontent.com/90840992/137844139-c78d2595-3d60-4b28-8e13-bc795ca8c557.png)         
+    ![Screenshot (170)](https://user-images.githubusercontent.com/90840992/137844139-c78d2595-3d60-4b28-8e13-bc795ca8c557.png)         
        
 
