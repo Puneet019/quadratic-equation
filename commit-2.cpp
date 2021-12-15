@@ -4,6 +4,7 @@ class MyClass {       // The class
     string myString;  // Attribute (string variable)
 };
 
+
 int main() {
   MyClass myObj;  // Create an object of MyClass
 
@@ -15,4 +16,6 @@ int main() {
   cout << myObj.myNum << "\n";
   cout << myObj.myString;
   return 0;
+  
+  
 }
